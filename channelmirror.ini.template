@@ -1,0 +1,6 @@
+[bot]
+token=<bot token>
+
+[channel]
+fchid=<channel id from which to mirror messages. starts with -100>
+tchid=<target chennel id for mirroring. starts with -100>
